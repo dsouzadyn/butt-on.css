@@ -1,7 +1,7 @@
 ## Easy to use
 Butt-on.css is an easy to use Button css framework made with Sass.
 ### Add it to your project
-Grab the beta version [here](https://github.com/dsouzadyn/butt-on.css/releases).
+Grab the latest version [here](https://github.com/dsouzadyn/butt-on.css/releases).
 
 Copy and paste the _images_ and _stylesheets_ folder to your project root.
 ```html
