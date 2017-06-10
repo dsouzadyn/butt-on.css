@@ -1,5 +1,5 @@
 ## Easy to use
-Butt-on.css is an easy to use Button css frame work made with Sass.
+Butt-on.css is an easy to use Button css framework made with Sass.
 ### Add it to your project
 Grab the beta version [here](https://github.com/dsouzadyn/butt-on.css/releases).
 
