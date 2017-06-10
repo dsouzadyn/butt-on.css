@@ -1,0 +1,46 @@
+@import variables
+@import mixin
+
+
+
+button
+  &:focus
+    outline: 0 !important
+  background: none
+  border: none
+  letter-spacing: 1.5px
+  font-size: 12px
+
+.butt-on
+  box-sizing: border-box
+  padding: 12px 16px
+  background: $default-color
+  color: $default-font-color
+  text-transform: uppercase
+  +box-shadow(0px, 0px, 4px, 0px, rgba(0, 0, 0, 0.75))
+  +border-radius(30px)
+  +transition(box-shadow, ease, 500ms)
+  &:hover
+    +box-shadow(0px, 0px, 8px, 0px, rgba(0, 32, 0, 1))
+    +transition(box-shadow, ease, 500ms)
+    cursor: pointer
+
+.med
+  padding: 16px 36px
+
+.lg
+  padding: 22px 54px
+
+.primary
+  background-color: $primary-color
+  color: $primary-font-color
+
+.secondary
+  background-color: $secondary-color
+  color: $secondary-font-color
+
+.blu
+  @extend .primary
+  background-color: $blu-color
+
+// Icons start

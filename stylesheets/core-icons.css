@@ -1,0 +1,830 @@
+/* line 3, ../sass/core-icons.sass */
+.icon-size, .feather-activity, .feather-airplay, .feather-alert-circle, .feather-alert-octagon, .feather-alert-triangle, .feather-align-center, .feather-align-justify, .feather-align-left, .feather-align-right, .feather-anchor, .feather-at-sign, .feather-award, .feather-bar-chart-2, .feather-bar-chart, .feather-battery-charging, .feather-battery, .feather-bell-off, .feather-bell, .feather-bluetooth, .feather-book, .feather-bookmark, .feather-box, .feather-briefcase, .feather-calender, .feather-cast, .feather-check-circle, .feather-check-square, .feather-check, .feather-circle, .feather-clipboard, .feather-clock, .feather-cloud-off, .feather-cloud, .feather-command, .feather-copy, .feather-cpu, .feather-credit-card, .feather-delete, .feather-disc, .feather-download, .feather-edit, .feather-edit-2, .feather-edit-3, .feather-external-link, .feather-eye-off, .feather-eye, .feather-feather, .feather-file, .feather-filter, .feather-flag, .feather-folder, .feather-grid, .feather-hash, .feather-headphones, .feather-heart, .feather-home, .feather-inbox, .feather-layers, .feather-layout, .feather-life-buoy, .feather-link-2, .feather-link, .feather-list, .feather-loader, .feather-lock, .feather-log-in, .feather-log-out, .feather-maximize-2, .feather-maximize, .feather-menu, .feather-mic-off, .feather-mic, .feather-minimize, .feather-minimize-2, .feather-minus-circle, .feather-minus-square, .feather-minus, .feather-monitor, .feather-more-horizontal, .feather-more-vertical, .feather-move, .feather-music, .feather-octagon, .feather-package, .feather-pie-chart, .feather-plus-circle, .feather-plus-square, .feather-plus, .feather-power, .feather-printer, .feather-radio, .feather-refresh-ccw, .feather-refresh-cw, .feather-rotate-ccw, .feather-rotate-cw, .feather-scissors, .feather-search, .feather-server, .feather-settings, .feather-share-2, .feather-share, .feather-shield, .feather-slash, .feather-smarthphone, .feather-speaker, .feather-square, .feather-star, .feather-tablet, .feather-tag, .feather-target, .feather-thumbs-down, .feather-thumbs-up, .feather-toggle-left, .feather-toggle-right, .feather-trash-2, .feather-trash, .feather-trending-down, .feather-trending-up, .feather-triangle, .feather-type, .feather-unlock, .feather-upload-cloud, .feather-upload, .feather-user-check, .feather-user-minus, .feather-user-plus, .feather-user-x, .feather-user, .feather-watch, .feather-wifi, .feather-x-circle, .feather-x-square, .feather-x-svg, .feather-zap, .feather-zoom-in, .feather-zoom-out {
+  display: inline-block;
+  vertical-align: text-bottom;
+  width: 16px;
+  height: 16px;
+  margin-right: 12px;
+}
+
+/* line 10, ../sass/core-icons.sass */
+.feather-activity {
+  background: url('/images/icons/core/activity.svg');
+  background-size: 16px 16px;
+}
+
+/* line 15, ../sass/core-icons.sass */
+.feather-airplay {
+  background: url('/images/icons/core/airplay.svg');
+  background-size: 16px 16px;
+}
+
+/* line 20, ../sass/core-icons.sass */
+.feather-alert-circle {
+  background: url('/images/icons/core/alert-circle.svg');
+  background-size: 16px 16px;
+}
+
+/* line 25, ../sass/core-icons.sass */
+.feather-alert-octagon {
+  background: url('/images/icons/core/alert-octagon.svg');
+  background-size: 16px 16px;
+}
+
+/* line 30, ../sass/core-icons.sass */
+.feather-alert-triangle {
+  background: url('/images/icons/core/alert-triangle.svg');
+  background-size: 16px 16px;
+}
+
+/* line 35, ../sass/core-icons.sass */
+.feather-align-center {
+  background: url('/images/icons/core/align-center.svg');
+  background-size: 16px 16px;
+}
+
+/* line 40, ../sass/core-icons.sass */
+.feather-align-justify {
+  background: url('/images/icons/core/align-justify.svg');
+  background-size: 16px 16px;
+}
+
+/* line 45, ../sass/core-icons.sass */
+.feather-align-left {
+  background: url('/images/icons/core/align-left.svg');
+  background-size: 16px 16px;
+}
+
+/* line 50, ../sass/core-icons.sass */
+.feather-align-right {
+  background: url('/images/icons/core/align-right.svg');
+  background-size: 16px 16px;
+}
+
+/* line 55, ../sass/core-icons.sass */
+.feather-anchor {
+  background: url('/images/icons/core/anchor.svg');
+  background-size: 16px 16px;
+}
+
+/* line 60, ../sass/core-icons.sass */
+.feather-at-sign {
+  background: url('/images/icons/core/at-sign.svg');
+  background-size: 16px 16px;
+}
+
+/* line 65, ../sass/core-icons.sass */
+.feather-award {
+  background: url('/images/icons/core/award.svg');
+  background-size: 16px 16px;
+}
+
+/* line 70, ../sass/core-icons.sass */
+.feather-bar-chart-2 {
+  background: url('/images/icons/core/bar-chart-2.svg');
+  background-size: 16px 16px;
+}
+
+/* line 75, ../sass/core-icons.sass */
+.feather-bar-chart {
+  background: url('/images/icons/core/bar-chart.svg');
+  background-size: 16px 16px;
+}
+
+/* line 80, ../sass/core-icons.sass */
+.feather-battery-charging {
+  background: url('/images/icons/core/battery-charging.svg');
+  background-size: 16px 16px;
+}
+
+/* line 85, ../sass/core-icons.sass */
+.feather-battery {
+  background: url('/images/icons/core/battery.svg');
+  background-size: 16px 16px;
+}
+
+/* line 90, ../sass/core-icons.sass */
+.feather-bell-off {
+  background: url('/images/icons/core/bell-off.svg');
+  background-size: 16px 16px;
+}
+
+/* line 95, ../sass/core-icons.sass */
+.feather-bell {
+  background: url('/images/icons/core/bell.svg');
+  background-size: 16px 16px;
+}
+
+/* line 100, ../sass/core-icons.sass */
+.feather-bluetooth {
+  background: url('/images/icons/core/bluetooth.svg');
+  background-size: 16px 16px;
+}
+
+/* line 105, ../sass/core-icons.sass */
+.feather-book {
+  background: url('/images/icons/core/book.svg');
+  background-size: 16px 16px;
+}
+
+/* line 110, ../sass/core-icons.sass */
+.feather-bookmark {
+  background: url('/images/icons/core/bookmark.svg');
+  background-size: 16px 16px;
+}
+
+/* line 115, ../sass/core-icons.sass */
+.feather-box {
+  background: url('/images/icons/core/box.svg');
+  background-size: 16px 16px;
+}
+
+/* line 120, ../sass/core-icons.sass */
+.feather-briefcase {
+  background: url('/images/icons/core/briefcase.svg');
+  background-size: 16px 16px;
+}
+
+/* line 125, ../sass/core-icons.sass */
+.feather-calender {
+  background: url('/images/icons/core/calender.svg');
+  background-size: 16px 16px;
+}
+
+/* line 130, ../sass/core-icons.sass */
+.feather-cast {
+  background: url('/images/icons/core/cast.svg');
+  background-size: 16px 16px;
+}
+
+/* line 135, ../sass/core-icons.sass */
+.feather-check-circle {
+  background: url('/images/icons/core/check-circle.svg');
+  background-size: 16px 16px;
+}
+
+/* line 140, ../sass/core-icons.sass */
+.feather-check-square {
+  background: url('/images/icons/core/check-square.svg');
+  background-size: 16px 16px;
+}
+
+/* line 145, ../sass/core-icons.sass */
+.feather-check {
+  background: url('/images/icons/core/check.svg');
+  background-size: 16px 16px;
+}
+
+/* line 150, ../sass/core-icons.sass */
+.feather-circle {
+  background: url('/images/icons/core/circle.svg');
+  background-size: 16px 16px;
+}
+
+/* line 155, ../sass/core-icons.sass */
+.feather-clipboard {
+  background: url('/images/icons/core/clipboard.svg');
+  background-size: 16px 16px;
+}
+
+/* line 160, ../sass/core-icons.sass */
+.feather-clock {
+  background: url('/images/icons/core/clock.svg');
+  background-size: 16px 16px;
+}
+
+/* line 165, ../sass/core-icons.sass */
+.feather-cloud-off {
+  background: url('/images/icons/core/cloud-off.svg');
+  background-size: 16px 16px;
+}
+
+/* line 171, ../sass/core-icons.sass */
+.feather-cloud {
+  background: url('/images/icons/core/cloud.svg');
+  background-size: 16px 16px;
+}
+
+/* line 177, ../sass/core-icons.sass */
+.feather-command {
+  background: url('/images/icons/core/command.svg');
+  background-size: 16px 16px;
+}
+
+/* line 183, ../sass/core-icons.sass */
+.feather-copy {
+  background: url('/images/icons/core/copy.svg');
+  background-size: 16px 16px;
+}
+
+/* line 189, ../sass/core-icons.sass */
+.feather-cpu {
+  background: url('/images/icons/core/cpu.svg');
+  background-size: 16px 16px;
+}
+
+/* line 195, ../sass/core-icons.sass */
+.feather-credit-card {
+  background: url('/images/icons/core/credit-card.svg');
+  background-size: 16px 16px;
+}
+
+/* line 201, ../sass/core-icons.sass */
+.feather-delete {
+  background: url('/images/icons/core/delete.svg');
+  background-size: 16px 16px;
+}
+
+/* line 207, ../sass/core-icons.sass */
+.feather-disc {
+  background: url('/images/icons/core/disc.svg');
+  background-size: 16px 16px;
+}
+
+/* line 213, ../sass/core-icons.sass */
+.feather-download {
+  background: url('/images/icons/core/download.svg');
+  background-size: 16px 16px;
+}
+
+/* line 219, ../sass/core-icons.sass */
+.feather-edit {
+  background: url('/images/icons/core/edit.svg');
+  background-size: 16px 16px;
+}
+
+/* line 225, ../sass/core-icons.sass */
+.feather-edit-2 {
+  background: url('/images/icons/core/edit-2.svg');
+  background-size: 16px 16px;
+}
+
+/* line 231, ../sass/core-icons.sass */
+.feather-edit-3 {
+  background: url('/images/icons/core/edit-3.svg');
+  background-size: 16px 16px;
+}
+
+/* line 237, ../sass/core-icons.sass */
+.feather-external-link {
+  background: url('/images/icons/core/external-link.svg');
+  background-size: 16px 16px;
+}
+
+/* line 243, ../sass/core-icons.sass */
+.feather-eye-off {
+  background: url('/images/icons/core/eye-off.svg');
+  background-size: 16px 16px;
+}
+
+/* line 249, ../sass/core-icons.sass */
+.feather-eye {
+  background: url('/images/icons/core/eye.svg');
+  background-size: 16px 16px;
+}
+
+/* line 255, ../sass/core-icons.sass */
+.feather-feather {
+  background: url('/images/icons/core/feather.svg');
+  background-size: 16px 16px;
+}
+
+/* line 261, ../sass/core-icons.sass */
+.feather-file {
+  background: url('/images/icons/core/file.svg');
+  background-size: 16px 16px;
+}
+
+/* line 267, ../sass/core-icons.sass */
+.feather-filter {
+  background: url('/images/icons/core/filter.svg');
+  background-size: 16px 16px;
+}
+
+/* line 273, ../sass/core-icons.sass */
+.feather-flag {
+  background: url('/images/icons/core/flag.svg');
+  background-size: 16px 16px;
+}
+
+/* line 279, ../sass/core-icons.sass */
+.feather-folder {
+  background: url('/images/icons/core/folder.svg');
+  background-size: 16px 16px;
+}
+
+/* line 285, ../sass/core-icons.sass */
+.feather-grid {
+  background: url('/images/icons/core/grid.svg');
+  background-size: 16px 16px;
+}
+
+/* line 291, ../sass/core-icons.sass */
+.feather-hash {
+  background: url('/images/icons/core/hash.svg');
+  background-size: 16px 16px;
+}
+
+/* line 297, ../sass/core-icons.sass */
+.feather-headphones {
+  background: url('/images/icons/core/headphones.svg');
+  background-size: 16px 16px;
+}
+
+/* line 303, ../sass/core-icons.sass */
+.feather-heart {
+  background: url('/images/icons/core/heart.svg');
+  background-size: 16px 16px;
+}
+
+/* line 309, ../sass/core-icons.sass */
+.feather-home {
+  background: url('/images/icons/core/home.svg');
+  background-size: 16px 16px;
+}
+
+/* line 315, ../sass/core-icons.sass */
+.feather-inbox {
+  background: url('/images/icons/core/inbox.svg');
+  background-size: 16px 16px;
+}
+
+/* line 321, ../sass/core-icons.sass */
+.feather-layers {
+  background: url('/images/icons/core/layers.svg');
+  background-size: 16px 16px;
+}
+
+/* line 327, ../sass/core-icons.sass */
+.feather-layout {
+  background: url('/images/icons/core/layout.svg');
+  background-size: 16px 16px;
+}
+
+/* line 333, ../sass/core-icons.sass */
+.feather-life-buoy {
+  background: url('/images/icons/core/life-buoy.svg');
+  background-size: 16px 16px;
+}
+
+/* line 339, ../sass/core-icons.sass */
+.feather-link-2 {
+  background: url('/images/icons/core/link-2.svg');
+  background-size: 16px 16px;
+}
+
+/* line 345, ../sass/core-icons.sass */
+.feather-link {
+  background: url('/images/icons/core/link.svg');
+  background-size: 16px 16px;
+}
+
+/* line 351, ../sass/core-icons.sass */
+.feather-list {
+  background: url('/images/icons/core/list.svg');
+  background-size: 16px 16px;
+}
+
+/* line 357, ../sass/core-icons.sass */
+.feather-loader {
+  background: url('/images/icons/core/loader.svg');
+  background-size: 16px 16px;
+}
+
+/* line 363, ../sass/core-icons.sass */
+.feather-lock {
+  background: url('/images/icons/core/lock.svg');
+  background-size: 16px 16px;
+}
+
+/* line 369, ../sass/core-icons.sass */
+.feather-log-in {
+  background: url('/images/icons/core/log-in.svg');
+  background-size: 16px 16px;
+}
+
+/* line 375, ../sass/core-icons.sass */
+.feather-log-out {
+  background: url('/images/icons/core/log-out.svg');
+  background-size: 16px 16px;
+}
+
+/* line 381, ../sass/core-icons.sass */
+.feather-maximize-2 {
+  background: url('/images/icons/core/maximize-2.svg');
+  background-size: 16px 16px;
+}
+
+/* line 387, ../sass/core-icons.sass */
+.feather-maximize {
+  background: url('/images/icons/core/maximize.svg');
+  background-size: 16px 16px;
+}
+
+/* line 393, ../sass/core-icons.sass */
+.feather-menu {
+  background: url('/images/icons/core/menu.svg');
+  background-size: 16px 16px;
+}
+
+/* line 399, ../sass/core-icons.sass */
+.feather-mic-off {
+  background: url('/images/icons/core/mic-off.svg');
+  background-size: 16px 16px;
+}
+
+/* line 405, ../sass/core-icons.sass */
+.feather-mic {
+  background: url('/images/icons/core/mic.svg');
+  background-size: 16px 16px;
+}
+
+/* line 411, ../sass/core-icons.sass */
+.feather-minimize {
+  background: url('/images/icons/core/minimize.svg');
+  background-size: 16px 16px;
+}
+
+/* line 417, ../sass/core-icons.sass */
+.feather-minimize-2 {
+  background: url('/images/icons/core/minimize-2.svg');
+  background-size: 16px 16px;
+}
+
+/* line 423, ../sass/core-icons.sass */
+.feather-minus-circle {
+  background: url('/images/icons/core/minus-circle.svg');
+  background-size: 16px 16px;
+}
+
+/* line 429, ../sass/core-icons.sass */
+.feather-minus-square {
+  background: url('/images/icons/core/minus-square.svg');
+  background-size: 16px 16px;
+}
+
+/* line 435, ../sass/core-icons.sass */
+.feather-minus {
+  background: url('/images/icons/core/minus.svg');
+  background-size: 16px 16px;
+}
+
+/* line 441, ../sass/core-icons.sass */
+.feather-monitor {
+  background: url('/images/icons/core/monitor.svg');
+  background-size: 16px 16px;
+}
+
+/* line 447, ../sass/core-icons.sass */
+.feather-more-horizontal {
+  background: url('/images/icons/core/more-horizontal.svg');
+  background-size: 16px 16px;
+}
+
+/* line 453, ../sass/core-icons.sass */
+.feather-more-vertical {
+  background: url('/images/icons/core/more-vertical.svg');
+  background-size: 16px 16px;
+}
+
+/* line 459, ../sass/core-icons.sass */
+.feather-move {
+  background: url('/images/icons/core/move.svg');
+  background-size: 16px 16px;
+}
+
+/* line 465, ../sass/core-icons.sass */
+.feather-music {
+  background: url('/images/icons/core/music.svg');
+  background-size: 16px 16px;
+}
+
+/* line 471, ../sass/core-icons.sass */
+.feather-octagon {
+  background: url('/images/icons/core/octagon.svg');
+  background-size: 16px 16px;
+}
+
+/* line 477, ../sass/core-icons.sass */
+.feather-package {
+  background: url('/images/icons/core/package.svg');
+  background-size: 16px 16px;
+}
+
+/* line 483, ../sass/core-icons.sass */
+.feather-pie-chart {
+  background: url('/images/icons/core/pie-chart.svg');
+  background-size: 16px 16px;
+}
+
+/* line 489, ../sass/core-icons.sass */
+.feather-plus-circle {
+  background: url('/images/icons/core/plus-circle.svg');
+  background-size: 16px 16px;
+}
+
+/* line 495, ../sass/core-icons.sass */
+.feather-plus-square {
+  background: url('/images/icons/core/plus-square.svg');
+  background-size: 16px 16px;
+}
+
+/* line 501, ../sass/core-icons.sass */
+.feather-plus {
+  background: url('/images/icons/core/plus.svg');
+  background-size: 16px 16px;
+}
+
+/* line 507, ../sass/core-icons.sass */
+.feather-power {
+  background: url('/images/icons/core/power.svg');
+  background-size: 16px 16px;
+}
+
+/* line 513, ../sass/core-icons.sass */
+.feather-printer {
+  background: url('/images/icons/core/printer.svg');
+  background-size: 16px 16px;
+}
+
+/* line 519, ../sass/core-icons.sass */
+.feather-radio {
+  background: url('/images/icons/core/radio.svg');
+  background-size: 16px 16px;
+}
+
+/* line 525, ../sass/core-icons.sass */
+.feather-refresh-ccw {
+  background: url('/images/icons/core/refresh-ccw.svg');
+  background-size: 16px 16px;
+}
+
+/* line 531, ../sass/core-icons.sass */
+.feather-refresh-cw {
+  background: url('/images/icons/core/refresh-cw.svg');
+  background-size: 16px 16px;
+}
+
+/* line 537, ../sass/core-icons.sass */
+.feather-rotate-ccw {
+  background: url('/images/icons/core/rotate-ccw.svg');
+  background-size: 16px 16px;
+}
+
+/* line 543, ../sass/core-icons.sass */
+.feather-rotate-cw {
+  background: url('/images/icons/core/rotate-cw.svg');
+  background-size: 16px 16px;
+}
+
+/* line 549, ../sass/core-icons.sass */
+.feather-scissors {
+  background: url('/images/icons/core/scissors.svg');
+  background-size: 16px 16px;
+}
+
+/* line 555, ../sass/core-icons.sass */
+.feather-search {
+  background: url('/images/icons/core/search.svg');
+  background-size: 16px 16px;
+}
+
+/* line 561, ../sass/core-icons.sass */
+.feather-server {
+  background: url('/images/icons/core/server.svg');
+  background-size: 16px 16px;
+}
+
+/* line 567, ../sass/core-icons.sass */
+.feather-settings {
+  background: url('/images/icons/core/settings.svg');
+  background-size: 16px 16px;
+}
+
+/* line 573, ../sass/core-icons.sass */
+.feather-share-2 {
+  background: url('/images/icons/core/share-2.svg');
+  background-size: 16px 16px;
+}
+
+/* line 579, ../sass/core-icons.sass */
+.feather-share {
+  background: url('/images/icons/core/share.svg');
+  background-size: 16px 16px;
+}
+
+/* line 585, ../sass/core-icons.sass */
+.feather-shield {
+  background: url('/images/icons/core/shield.svg');
+  background-size: 16px 16px;
+}
+
+/* line 591, ../sass/core-icons.sass */
+.feather-slash {
+  background: url('/images/icons/core/slash.svg');
+  background-size: 16px 16px;
+}
+
+/* line 597, ../sass/core-icons.sass */
+.feather-smarthphone {
+  background: url('/images/icons/core/smarthphone.svg');
+  background-size: 16px 16px;
+}
+
+/* line 603, ../sass/core-icons.sass */
+.feather-speaker {
+  background: url('/images/icons/core/speaker.svg');
+  background-size: 16px 16px;
+}
+
+/* line 609, ../sass/core-icons.sass */
+.feather-square {
+  background: url('/images/icons/core/square.svg');
+  background-size: 16px 16px;
+}
+
+/* line 615, ../sass/core-icons.sass */
+.feather-star {
+  background: url('/images/icons/core/star.svg');
+  background-size: 16px 16px;
+}
+
+/* line 621, ../sass/core-icons.sass */
+.feather-tablet {
+  background: url('/images/icons/core/tablet.svg');
+  background-size: 16px 16px;
+}
+
+/* line 627, ../sass/core-icons.sass */
+.feather-tag {
+  background: url('/images/icons/core/tag.svg');
+  background-size: 16px 16px;
+}
+
+/* line 633, ../sass/core-icons.sass */
+.feather-target {
+  background: url('/images/icons/core/target.svg');
+  background-size: 16px 16px;
+}
+
+/* line 639, ../sass/core-icons.sass */
+.feather-thumbs-down {
+  background: url('/images/icons/core/thumbs-down.svg');
+  background-size: 16px 16px;
+}
+
+/* line 645, ../sass/core-icons.sass */
+.feather-thumbs-up {
+  background: url('/images/icons/core/thumbs-up.svg');
+  background-size: 16px 16px;
+}
+
+/* line 651, ../sass/core-icons.sass */
+.feather-toggle-left {
+  background: url('/images/icons/core/toggle-left.svg');
+  background-size: 16px 16px;
+}
+
+/* line 657, ../sass/core-icons.sass */
+.feather-toggle-right {
+  background: url('/images/icons/core/toggle-right.svg');
+  background-size: 16px 16px;
+}
+
+/* line 663, ../sass/core-icons.sass */
+.feather-trash-2 {
+  background: url('/images/icons/core/trash-2.svg');
+  background-size: 16px 16px;
+}
+
+/* line 669, ../sass/core-icons.sass */
+.feather-trash {
+  background: url('/images/icons/core/trash.svg');
+  background-size: 16px 16px;
+}
+
+/* line 675, ../sass/core-icons.sass */
+.feather-trending-down {
+  background: url('/images/icons/core/trending-down.svg');
+  background-size: 16px 16px;
+}
+
+/* line 681, ../sass/core-icons.sass */
+.feather-trending-up {
+  background: url('/images/icons/core/trending-up.svg');
+  background-size: 16px 16px;
+}
+
+/* line 687, ../sass/core-icons.sass */
+.feather-triangle {
+  background: url('/images/icons/core/triangle.svg');
+  background-size: 16px 16px;
+}
+
+/* line 693, ../sass/core-icons.sass */
+.feather-type {
+  background: url('/images/icons/core/type.svg');
+  background-size: 16px 16px;
+}
+
+/* line 699, ../sass/core-icons.sass */
+.feather-unlock {
+  background: url('/images/icons/core/unlock.svg');
+  background-size: 16px 16px;
+}
+
+/* line 705, ../sass/core-icons.sass */
+.feather-upload-cloud {
+  background: url('/images/icons/core/upload-cloud.svg');
+  background-size: 16px 16px;
+}
+
+/* line 711, ../sass/core-icons.sass */
+.feather-upload {
+  background: url('/images/icons/core/upload.svg');
+  background-size: 16px 16px;
+}
+
+/* line 717, ../sass/core-icons.sass */
+.feather-user-check {
+  background: url('/images/icons/core/user-check.svg');
+  background-size: 16px 16px;
+}
+
+/* line 723, ../sass/core-icons.sass */
+.feather-user-minus {
+  background: url('/images/icons/core/user-minus.svg');
+  background-size: 16px 16px;
+}
+
+/* line 729, ../sass/core-icons.sass */
+.feather-user-plus {
+  background: url('/images/icons/core/user-plus.svg');
+  background-size: 16px 16px;
+}
+
+/* line 735, ../sass/core-icons.sass */
+.feather-user-x {
+  background: url('/images/icons/core/user-x.svg');
+  background-size: 16px 16px;
+}
+
+/* line 741, ../sass/core-icons.sass */
+.feather-user {
+  background: url('/images/icons/core/user.svg');
+  background-size: 16px 16px;
+}
+
+/* line 747, ../sass/core-icons.sass */
+.feather-watch {
+  background: url('/images/icons/core/watch.svg');
+  background-size: 16px 16px;
+}
+
+/* line 753, ../sass/core-icons.sass */
+.feather-wifi {
+  background: url('/images/icons/core/wifi.svg');
+  background-size: 16px 16px;
+}
+
+/* line 759, ../sass/core-icons.sass */
+.feather-x-circle {
+  background: url('/images/icons/core/x-circle.svg');
+  background-size: 16px 16px;
+}
+
+/* line 765, ../sass/core-icons.sass */
+.feather-x-square {
+  background: url('/images/icons/core/x-square.svg');
+  background-size: 16px 16px;
+}
+
+/* line 771, ../sass/core-icons.sass */
+.feather-x-svg {
+  background: url('/images/icons/core/x-svg.svg');
+  background-size: 16px 16px;
+}
+
+/* line 777, ../sass/core-icons.sass */
+.feather-zap {
+  background: url('/images/icons/core/zap.svg');
+  background-size: 16px 16px;
+}
+
+/* line 783, ../sass/core-icons.sass */
+.feather-zoom-in {
+  background: url('/images/icons/core/zoom-in.svg');
+  background-size: 16px 16px;
+}
+
+/* line 789, ../sass/core-icons.sass */
+.feather-zoom-out {
+  background: url('/images/icons/core/zoom-out.svg');
+  background-size: 16px 16px;
+}
+
+/* line 795, ../sass/core-icons.sass */
+.invert {
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+}

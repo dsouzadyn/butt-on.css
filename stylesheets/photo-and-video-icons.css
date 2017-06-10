@@ -1,0 +1,50 @@
+/* line 3, ../sass/photo-and-video-icons.sass */
+.icon-size, .feather-aperture, .feather-camera-off, .feather-camera, .feather-film, .feather-image, .feather-video-off, .feather-video {
+  display: inline-block;
+  vertical-align: text-bottom;
+  width: 16px;
+  height: 16px;
+  margin-right: 12px;
+}
+
+/* line 10, ../sass/photo-and-video-icons.sass */
+.feather-aperture {
+  background: url('/images/icons/photo-and-video/aperture.svg');
+  background-size: 16px 16px;
+}
+
+/* line 15, ../sass/photo-and-video-icons.sass */
+.feather-camera-off {
+  background: url('/images/icons/photo-and-video/camera-off.svg');
+  background-size: 16px 16px;
+}
+
+/* line 20, ../sass/photo-and-video-icons.sass */
+.feather-camera {
+  background: url('/images/icons/photo-and-video/camera.svg');
+  background-size: 16px 16px;
+}
+
+/* line 25, ../sass/photo-and-video-icons.sass */
+.feather-film {
+  background: url('/images/icons/photo-and-video/film.svg');
+  background-size: 16px 16px;
+}
+
+/* line 30, ../sass/photo-and-video-icons.sass */
+.feather-image {
+  background: url('/images/icons/photo-and-video/image.svg');
+  background-size: 16px 16px;
+}
+
+/* line 35, ../sass/photo-and-video-icons.sass */
+.feather-video-off {
+  background: url('/images/icons/photo-and-video/video-off.svg');
+  background-size: 16px 16px;
+}
+
+/* line 40, ../sass/photo-and-video-icons.sass */
+.feather-video {
+  background: url('/images/icons/photo-and-video/video.svg');
+  background-size: 16px 16px;
+}

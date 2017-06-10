@@ -1,0 +1,56 @@
+/* line 3, ../sass/logo-icons.sass */
+.icon-size, .feather-chrome, .feather-codepen, .feather-facebook, .feather-github, .feather-instagram, .feather-pocket, .feather-slack, .feather-twitter {
+  display: inline-block;
+  vertical-align: text-bottom;
+  width: 16px;
+  height: 16px;
+  margin-right: 12px;
+}
+
+/* line 10, ../sass/logo-icons.sass */
+.feather-chrome {
+  background: url('/images/icons/logos/chrome.svg');
+  background-size: 16px 16px;
+}
+
+/* line 15, ../sass/logo-icons.sass */
+.feather-codepen {
+  background: url('/images/icons/logos/codepen.svg');
+  background-size: 16px 16px;
+}
+
+/* line 20, ../sass/logo-icons.sass */
+.feather-facebook {
+  background: url('/images/icons/logos/facebook.svg');
+  background-size: 16px 16px;
+}
+
+/* line 25, ../sass/logo-icons.sass */
+.feather-github {
+  background: url('/images/icons/logos/github.svg');
+  background-size: 16px 16px;
+}
+
+/* line 30, ../sass/logo-icons.sass */
+.feather-instagram {
+  background: url('/images/icons/logos/instagram.svg');
+  background-size: 16px 16px;
+}
+
+/* line 35, ../sass/logo-icons.sass */
+.feather-pocket {
+  background: url('/images/icons/logos/pocket.svg');
+  background-size: 16px 16px;
+}
+
+/* line 40, ../sass/logo-icons.sass */
+.feather-slack {
+  background: url('/images/icons/logos/slack.svg');
+  background-size: 16px 16px;
+}
+
+/* line 45, ../sass/logo-icons.sass */
+.feather-twitter {
+  background: url('/images/icons/logos/twitter.svg');
+  background-size: 16px 16px;
+}
