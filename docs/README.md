@@ -36,6 +36,6 @@ Copy and paste the _images_ and _stylesheets_ folder to your project root.
 ```html
 <button class="butt-on"><span class="feather-activity"></span>Iconic</button>
 <!-- The below is for white icons -->
-<button class="butt-on"><span class="feather-activity invert"></span>Really Iconic</button>
+<button class="butt-on blu"><span class="feather-activity invert"></span>Really Iconic</button>
 ```
 To know more about the different icons please visit the guys at [FeatherIcons](https://feathericons.com/).
