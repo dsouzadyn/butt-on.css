@@ -1,3 +1,4 @@
+_config.yml export-ignore
 config.rb export-ignore
 prod_config.rb export-ignore
 /sass export-ignore
