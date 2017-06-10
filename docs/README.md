@@ -22,17 +22,44 @@ Copy and paste the _images_ and _stylesheets_ folder to your project root.
 ```
 
 ### Default Button
+
+<button class="butt-on">Wow</button>
+
 ```html
 <button class="butt-on">Wow</button>
 ```
 ### Coloured buttons
+
+<button class="butt-on primary">I'm Coloured</button>
+<button class="butt-on secondary">So Am I</button>
+<button class="butt-on blu">I'm Blu</button>
+
 ```html
 <button class="butt-on primary">I'm Coloured</button>
 <button class="butt-on secondary">So Am I</button>
 <button class="butt-on blu">I'm Blu</button>
 ```
 
+### Different sizes
+
+<button class="butt-on">Original</button>
+<button class="butt-on med">Medium</button>
+<button class="butt-on lg">Large</button>
+
+```html
+<button class="butt-on">Original</button>
+<button class="butt-on med">Medium</button>
+<button class="butt-on lg">Large</button>
+```
+
+
 ### Buttons with icons
+
+<button class="butt-on"><span class="feather-chrome"></span>Iconic</button>
+<button class="butt-on"><span class="feather-mail"></span>Really Iconic</button>
+<button class="butt-on"><span class="feather-compass"></span>Awesome</button>
+<button class="butt-on"><span class="feather-moon"></span>Cool</button>
+
 ```html
 <button class="butt-on"><span class="feather-activity"></span>Iconic</button>
 <!-- The below is for white icons -->
