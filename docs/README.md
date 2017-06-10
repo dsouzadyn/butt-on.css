@@ -65,4 +65,4 @@ Copy and paste the _images_ and _stylesheets_ folder to your project root.
 <!-- The below is for white icons -->
 <button class="butt-on blu"><span class="feather-activity invert"></span>Really Iconic</button>
 ```
-To know more about the different icons please visit the guys at [FeatherIcons](https://feathericons.com/).
+To know more about the different icons please visit [Feather](https://feathericons.com/).
